@@ -1,8 +1,8 @@
 import Vapi from "@vapi-ai/web";
 
-const vapi = new Vapi("765dc027-5278-4520-a631-987b5d47af0d"); // Replace with your actual public API key
+const vapi = new Vapi("923886ef-5652-4711-a6f7-e5bfef44d17d"); 
 
-const assistantId = "6c2a2334-2e0d-4752-9a21-7b5e8b1939f9"; // Your assistant ID
+const assistantId = "378ed5a9-7b03-48c0-96c1-8ced880c6a60"; 
 
 const messagesDiv = document.getElementById("messages");
 const userInput = document.getElementById("user-input");
